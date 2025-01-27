@@ -1,4 +1,4 @@
-## Multi-tenant Laravel SaaS boilerplate
+## Multi-tenant Laravel SaaS
 
 This repository puts together the most common building blocks necessary for developing a multi tenant SAAS application using Laravel, thus enabling users to jumpstart their SAAS application development with separate tenant databases.
 
@@ -8,7 +8,7 @@ It provides
 - Multi tenancy with separate databases
 
 ## Getting Started
-This starter boilerplate is built on Laravel 6.2. Hence, working knowledge of Laravel is required.
+This starter is built on Laravel 6.2. Hence, working knowledge of Laravel is required.
 
 ### Installing
 - Download the repository by cloning it or in zip format & extract to your project folder
